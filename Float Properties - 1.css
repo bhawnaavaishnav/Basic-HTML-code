@@ -1,0 +1,50 @@
+body {
+   background-color: azure;
+}
+
+.img1 {
+   float: right;
+   border: 1px solid black;
+   width: 200px;
+   height: 200px;
+   background-color: blueviolet;
+   margin-left: 10px;
+}
+
+.img2 {
+   float: left;
+   border: 1px solid black;
+   width: 200px;
+   height: 200px;
+   background-color: brown;
+   margin-right: 10px;
+}
+
+.img3 {
+   float: left;
+   border: 1px solid black;
+   width: 200px;
+   height: 200px;
+   background-color: blue;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+
+p:nth-child(3) {
+   clear: left;
+}
+
+.img4 {
+   border: 1px solid black;
+   width: 200px;
+   height: 200px;
+   background-color: chocolate;
+}
+
+.div4{
+   color: red
+}
+
+h2{
+   color: initial;
+}
